@@ -38,9 +38,9 @@
 	</organization>
 
 	<scm>
-		<connection>scm:git:git@github.com:openmrs/openmrs-core</connection>
-		<developerConnection>scm:git:git@github.com:openmrs/openmrs-core</developerConnection>
-		<url>https://github.com/openmrs/openmrs-core</url>
+		<connection>scm:git:git@github.com:maany/openmrs-core</connection>
+		<developerConnection>scm:git:git@github.com:maany/openmrs-core</developerConnection>
+		<url>https://github.com/maany/openmrs-core</url>
 	</scm>
 
 	<ciManagement>
